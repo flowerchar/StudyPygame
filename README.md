@@ -3,7 +3,7 @@
 
 ## 第一章
 ### [1-第一个pygame程序.py](第一章代码\1-第一个pygame程序.py)
-### [2-display的基本使用.py](第一章代码\2-display的基本使用.py)
+### [2-display的基本使用.py](第一章代码/2-display的基本使用.py)
 ### [3-surface的基本使用.py](第一章代码\3-surface的基本使用.py)
 ### [4-image的基本使用.py](第一章代码\4-image的基本使用.py)
 ### [5-创建rect对象.py](第一章代码\5-创建rect对象.py)
