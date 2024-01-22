@@ -1,6 +1,12 @@
 # StudyPygame
 > 该仓库记录学习Pygame的一些心得
 
+游戏有flappybird：![image-20240122155709008](README.assets/image-20240122155709008.png)
+
+雷霆战机（简洁版）：![image-20240122155823932](README.assets/image-20240122155823932.png)
+
+雷霆战机：![image-20240122155745804](README.assets/image-20240122155745804.png)
+
 ## 第一章
 <<<<<<< HEAD
 ### [1-第一个pygame程序.py](第一章代码/1-第一个pygame程序.py)
